@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSbL2gtVzr6E7Fd4/W2f/BQy9vqdf9gPlp7+b5+zOuHoWlimfWTE0Uz5F5FBacapE6TP/PTfqHwOTcwUJWnb8Q==",
+  "success": true,
+  "projectFilePath": "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/SayHelloEndpoint/SayHelloEndpoint.csproj",
+  "expectedPackageFiles": [
+    "/Users/aplasticbin/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/aplasticbin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
