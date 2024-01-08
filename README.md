@@ -4,4 +4,7 @@ Sebastian Breve-Sanchez
 
 Say Hello - Endpoint
 
-Peer review: 
+Peer review: Ellie Rasuli
+
+Ran the code and checked on Postman, it works well!
+The data does not need to be a list. A string works fine
